@@ -1,0 +1,6 @@
+D:\TFS\QC-POCs\KarimKamal\NET_CSharp_ACE\ExcelTranslator\obj\Debug\ExcelTranslator.csprojResolveAssemblyReference.cache
+D:\TFS\QC-POCs\KarimKamal\NET_CSharp_ACE\ExcelTranslator\bin\Debug\ExcelTranslator.dll.config
+D:\TFS\QC-POCs\KarimKamal\NET_CSharp_ACE\ExcelTranslator\bin\Debug\ExcelTranslator.dll
+D:\TFS\QC-POCs\KarimKamal\NET_CSharp_ACE\ExcelTranslator\bin\Debug\ExcelTranslator.pdb
+D:\TFS\QC-POCs\KarimKamal\NET_CSharp_ACE\ExcelTranslator\obj\Debug\ExcelTranslator.dll
+D:\TFS\QC-POCs\KarimKamal\NET_CSharp_ACE\ExcelTranslator\obj\Debug\ExcelTranslator.pdb

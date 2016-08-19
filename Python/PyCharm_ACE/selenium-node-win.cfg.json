@@ -1,0 +1,37 @@
+{
+ "capabilities": [
+
+  {
+     "seleniumProtocol": "WebDriver",
+     "browserName": "internet explorer",
+     "version": "11",
+     "maxInstances": 1,
+     "platform" : "WINDOWS"
+   },
+   {
+     "browserName": "firefox",
+     "version": "44",
+     "maxInstances":1,
+     "platform": "WINDOWS"
+   },
+   {
+     "browserName": "chrome",
+     "version": "47",
+     "maxInstances":1,
+     "platform": "WINDOWS"
+   }
+
+],
+ "configuration": {
+ "port": 5555,
+ "register": true,
+ "host": "127.0.0.1",
+ "nodePolling":20000,
+ "maxSession": 1,
+ "hubHost": "127.0.0.1",
+ "registerCycle": 50000,
+ "hub": "http://127.0.0.1:4444/grid/register",
+ "hubPort": 4444,
+ "remoteHost": "http://127.0.0.1:4444"
+ }
+}

@@ -1,0 +1,5 @@
+java -jar selenium-server-standalone-2.52.0.jar -port 4444 -role hub
+java -Dwebdriver.ie.driver="C:\Users\kkamal\PycharmProjects\PyCharm_ACE\Drivers\IEDriverServer.exe" -jar
+ selenium-server-standalone-2.52.0.jar -role webdriver -browser
+ "browserName=internet explorer,version=11,maxinstance=1,platform=WINDOWS"
+ -hubHost 127.0.0.1 –port 5555
