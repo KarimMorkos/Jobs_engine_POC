@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="C:\Users\mshoieb\Desktop\latest\CV\CV\CV\bin\Debug\CV.dll" total="1" errors="1" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2015-11-22" time="21:03:05">
+  <environment nunit-version="2.6.3.13283" clr-version="2.0.50727.5485" os-version="Microsoft Windows NT 6.1.7601 Service Pack 1" platform="Win32NT" cwd="C:\Program Files (x86)\NUnit 2.6.3\bin" machine-name="EGY-MSHOIEB-NB" user="MShoieb" user-domain="STA" />
+  <culture-info current-culture="en-US" current-uiculture="en-US" />
+  <test-suite type="Assembly" name="C:\Users\mshoieb\Desktop\latest\CV\CV\CV\bin\Debug\CV.dll" executed="True" result="Failure" success="False" time="0.065" asserts="0">
+    <results>
+      <test-suite type="Namespace" name="CV" executed="True" result="Failure" success="False" time="0.064" asserts="0">
+        <results>
+          <test-suite type="GenericFixture" name="YourVerCard&lt;TWebDriver&gt;" executed="True" result="Failure" success="False" time="0.064" asserts="0">
+            <results>
+              <test-suite type="TestFixture" name="YourVerCard&lt;FirefoxDriver&gt;" executed="True" result="Failure" success="False" time="0.064" asserts="0">
+                <results>
+                  <test-case name="CV.YourVerCard&lt;FirefoxDriver&gt;.Site6" executed="True" result="Error" success="False" time="0.063" asserts="0">
+                    <failure>
+                      <message><![CDATA[System.IO.DirectoryNotFoundException : Could not find a part of the path 'C:\CV\CV\CV\Data Source\Test.xlsx'.]]></message>
+                      <stack-trace><![CDATA[at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy)
+at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+at System.IO.File.Open(String path, FileMode mode, FileAccess access)
+at CV.Data_Source.Excel_Translator.ExcelToDataTable(String filename, String sheetName) in c:\Users\mshoieb\Desktop\latest\CV\CV\CV\Data Source\Excel_Translator.cs:line 21
+at CV.Data_Source.Excel_Translator.PopulateInCollection(String fileName, String sheetName) in c:\Users\mshoieb\Desktop\latest\CV\CV\CV\Data Source\Excel_Translator.cs:line 59
+at CV.YourVerCard`1.Site6() in c:\Users\mshoieb\Desktop\latest\CV\CV\CV\Test cases\TestYourSurgeCard.cs:line 45
+]]></stack-trace>
+                    </failure>
+                  </test-case>
+                </results>
+              </test-suite>
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>

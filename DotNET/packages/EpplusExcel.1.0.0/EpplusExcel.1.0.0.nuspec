@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>EpplusExcel</id>
+    <version>1.0.0</version>
+    <title>Excel Class Library to Operate EPPlus Excel</title>
+    <authors>win7x64</authors>
+    <owners>win7x64</owners>
+    <projectUrl>https://epplusexcel.codeplex.com/</projectUrl>
+    <iconUrl>http://www.e-iceblue.com/images/url/epplus.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>EPPlus is a powerful library for reading and writing Excel 2007/2010 files, while it is not support converting .xlsx to other type of formats PDF, Image, CSV, XML, inserting OLE object and etc. This project is aimed to provide examples to achieve above mentioned features by using free Excel Class Library - Free Spire.XLS. There is no need to install Microsoft Excel or Office and it is easy to use both of the API together.
+
+The main features offered by Epplus_Excel:
+
+xlsx-&gt;csv 
+xlsx-&gt;image 
+Export .xlss to PDF 
+Save .xlsx to .xls 
+Export .xlsx to XML 
+Insert control 
+Insert oleobject 
+Insert sparklines 
+Save chart to image</description>
+    <copyright>Copyright © 2015 e-iceblue. All Rights Reserved.</copyright>
+    <tags>epplus excel .xlsx PDF XML</tags>
+  </metadata>
+</package>

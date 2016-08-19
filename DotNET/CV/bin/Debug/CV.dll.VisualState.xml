@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VisualState xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ShowCheckBoxes="false">
+  <TopNode>[0-1019]C:\Users\mshoieb\Desktop\latest\CV\CV\CV\bin\Debug\CV.dll</TopNode>
+  <SelectedNode>[0-1013]CV.YourVerCard&lt;FirefoxDriver&gt;.Site6</SelectedNode>
+  <ExcludeCategories>false</ExcludeCategories>
+  <Nodes>
+    <Node UniqueName="[0-1019]C:\Users\mshoieb\Desktop\latest\CV\CV\CV\bin\Debug\CV.dll" Expanded="true" />
+    <Node UniqueName="[0-1020]CV" Expanded="true" />
+    <Node UniqueName="[0-1000]CV.WebTest" Expanded="true" />
+    <Node UniqueName="[0-1001]CV.WebTest.Site4" Expanded="true" />
+    <Node UniqueName="[0-1006]CV.YourCreditSurge" Expanded="true" />
+    <Node UniqueName="[0-1007]CV.YourCreditSurge.Site2" Expanded="true" />
+    <Node UniqueName="[0-1003]CV.yoursurgecard" Expanded="true" />
+    <Node UniqueName="[0-1004]CV.yoursurgecard.Site3" Expanded="true" />
+    <Node UniqueName="[0-1009]CV.YourVerCard&lt;TWebDriver&gt;" Expanded="true" />
+    <Node UniqueName="[0-1012]CV.YourVerCard&lt;FirefoxDriver&gt;" Expanded="true" />
+  </Nodes>
+</VisualState>
